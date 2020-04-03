@@ -5,3 +5,7 @@ Crash Course on VUE.js
   - Build a Quiz Application
   - Build a multi-view pet adoption application which uses vuex store features
   
+2. Design Course : https://www.youtube.com/watch?v=78tNYZUS-ps&t=2252s
+  - Build an application which accepts and lists a users skill
+  - Exhibits VUE routing 
+  
