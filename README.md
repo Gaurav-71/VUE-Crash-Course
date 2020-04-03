@@ -13,3 +13,6 @@ Crash Course on VUE.js
   - Build a multicomponent vue app with state management
   - Use actions, getters, mutations etc
   
+ 4. Calculator, Free Code Camp: https://www.youtube.com/watch?v=m1_ih43p24s
+  - Build a simple calculator application
+  
