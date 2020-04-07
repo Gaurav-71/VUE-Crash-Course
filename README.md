@@ -16,3 +16,6 @@ Crash Course on VUE.js
  4. Calculator, Free Code Camp: https://www.youtube.com/watch?v=m1_ih43p24s
   - Build a simple calculator application
   
+ 5. Todo List
+  - Build a simple todo list application using vuex features such as store & mutations
+  
